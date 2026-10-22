@@ -1,4 +1,4 @@
-name: RDP
+name: BB31
 
 on:
   workflow_dispatch:
